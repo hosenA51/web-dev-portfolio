@@ -11,14 +11,12 @@
 .secondary-bg{
     background-color: #FFF8F3;
 }
-
 .text-primary {
     color: #FD6E0A;
 }
 .dark-2 {
     color: #474747;
 }
-
 .btn-primary {
     background-color: #FD6E0A;
     font-weight: bold;
@@ -33,7 +31,6 @@
     font-weight: bold;
     color: #181818;
 }
-
 .section-description {
     font-size: 18px;
     color: #757575;
@@ -47,7 +44,6 @@
     background-repeat: no-repeat;
     background-position: top left, bottom right;
 }
-
 /* Nav Styles */
 nav {
     display: flex;
@@ -106,7 +102,6 @@ main section {
     padding: 130px 150px;
     text-align: center;
 }
-
 .about-items {
     display: flex;
     justify-content: space-around;
@@ -140,11 +135,9 @@ main section {
 .resume hr{
     margin: 30px 5px;
 }
-
 .resume-download-cv {
     margin-top: 50px;
 }
-
 /* footer styles */
 footer {
     padding: 130px 230px;
@@ -154,7 +147,6 @@ footer {
 .footer-column {
     width: 50%;
 }
-
 footer input[type="text"], footer input[type="email"], footer textarea{
     height: 64px;
     border-radius: 5px;
